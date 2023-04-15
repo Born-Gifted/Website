@@ -1,5 +1,6 @@
 # About
 https://www.born-gifted.org/
+
 The AEC Special Education Club is committed to creating a platform and network of resources for children with learning disabilities.
 
 Our club regularly hosts both online and offline activities to encourage volunteers to take practical steps in supporting children with learning disabilities and advocating for their needs from multiple perspectives. Through a variety of methods, including our website and social media platforms, we aim to raise awareness of special education, highlight the individuals who benefit from it, and showcase the challenges faced by children with learning disabilities.
