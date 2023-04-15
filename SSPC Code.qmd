@@ -1,4 +1,4 @@
-# Squarespace Code
+Squarespace Code
 
 1. Custom Logo
 .header-title-logo a:after {
