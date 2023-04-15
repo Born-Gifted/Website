@@ -1,5 +1,6 @@
 ---
 title: "Squarespace Code"
+format: pdf
 editor: 
   markdown: 
     wrap: 72
