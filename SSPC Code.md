@@ -1,3 +1,3 @@
-#Squarespace Code
+# Squarespace Code
 
 Your code goes here
